@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Soenneker.Quark.Attributes.CssVariables;
+namespace Soenneker.Quark;
 
 /// <summary>
 /// Attribute to mark properties that should be converted to CSS custom properties
